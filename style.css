@@ -1,0 +1,50 @@
+.header{
+text-align: center;margin-top:0px;box-shadow: 15px 15px 20px teal;height: 130px;font-family: 'Trebuchet MS';background-color: white;
+
+
+}
+
+.header img{
+width: 100px; height: 100px;
+
+
+}
+
+.header h1{
+font-size: 30px;
+
+
+}
+
+body{
+background-color:paleturquoise;
+
+}
+
+.result{
+background-color: rgb(0, 225, 255);width: 600px;margin-left: 50px;margin-top: 20px;padding: 30px;font-family: 'Gill Sans';border-radius: 20px;border: 3px dotted navy;box-shadow: 8px 10px 15px navy;height: 600px;
+
+
+}
+
+.result img{
+height: 300px; width: 400px;margin: 10px;border-radius: 50px;border: 2px solid black;
+
+}
+
+#azure_pred, #mobileN_pred{
+color: red;font-family: monospace;font-size: 18px;;
+
+
+}
+
+.con{
+background-color: rgb(202, 202, 202);padding: 10px;border-radius: 20px;
+
+
+}
+
+.final{
+background-color: yellow;margin-left: 250px ;width: 900px;margin-top: 40px;margin-bottom: 10px;border-radius: 30px;border: 3px dashed navy;
+
+}
