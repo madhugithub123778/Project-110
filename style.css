@@ -33,7 +33,7 @@ height: 300px; width: 400px;margin: 10px;border-radius: 50px;border: 2px solid b
 }
 
 #azure_pred, #mobileN_pred{
-color: red;font-family: monospace;font-size: 18px;;
+color: red;font-family: monospace;font-size: 18px;margin-left: 5px;font-weight: bold;
 
 
 }
